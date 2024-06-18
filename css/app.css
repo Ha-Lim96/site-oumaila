@@ -5,18 +5,18 @@
 
 
 .btn_primary_dark {
-    background-color: #3E7939;
+    background-color: red;
     color: #FFFFFF;
     border: 2px solid;
-    border-color: #3E7939;
+    border-color: red;
     font-weight: bold;
 }
 
 .btn_primary_white {
     background-color: white;
-    color: #3E7939;
+    color: red;
     border: 2px solid;
-    border-color: #3E7939;
+    border-color: red;
     font-weight: bold;  
 }
 
@@ -32,7 +32,7 @@
 }
 
 .font-primary-bold {
-    color: #3E7939;
+    color: red;
     font-weight: bold;
 }
 
@@ -48,5 +48,5 @@
 
 
 .font-primary {
-    color: #3E7939;
+    color: red;
 }
